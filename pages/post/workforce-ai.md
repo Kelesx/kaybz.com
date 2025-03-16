@@ -1,6 +1,7 @@
-<head>
-  <title>WorkForce AI Review: Revolutionizing Business Operations with Artificial Intelligence</title>
-</head>
+---
+title: "WorkForce AI Review: Revolutionizing Business Operations with Artificial Intelligence"
+description: "Discover how WorkForce AI is transforming business operations through advanced artificial intelligence, offering tools for content creation, automation, and more."
+---
 
 # **WorkForce AI Review: Revolutionizing Business Operations with Artificial Intelligence**
 
