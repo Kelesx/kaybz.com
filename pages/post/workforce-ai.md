@@ -73,6 +73,5 @@ WorkForce AI stands out as a comprehensive AI platform that addresses various bu
 **Call to Action**
 
 To explore how WorkForce AI can transform your business operations, consider visiting their official website for more information and to select a plan that aligns with your organizational needs.
-<center>
+
 [![visit-official-website](https://github.com/user-attachments/assets/586094dc-2a23-4b5c-9559-13d93f1a670a)](https://jvz2.com/c/1618817/415418/)
-</center>
